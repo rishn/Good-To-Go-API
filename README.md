@@ -5,7 +5,7 @@
 Atlan Goods Application backend is built to handle complex logistics operations like booking management, driver assignments, and real-time tracking. It is designed for scalability and handling several requests. The backend includes role-based access for customers, drivers, and admins.
 
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/public/background2.jpeg" alt="Finding Driver" />
+  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/public/background2.png" alt="Image" />
 </p>
 
 ### Deployed Link
@@ -64,12 +64,32 @@ The backend needed to handle **real-time updates** for both driver and booking m
 
 ### Finding Driver
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/outputs/finding_driver" alt="Finding Driver" />
+  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/outputs/finding_driver.png" alt="Finding Driver" />
 </p>
 
 ### Analytics Dashboard
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/outputs/analytics" alt="Analytics" />
+  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/outputs/analytics.png" alt="Analytics" />
 </p>
+
+---
+
+## Diagrams
+
+### ER Diagram
+<p align="center">
+  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/diagrams/er_diagram.png" alt="ER Diagram" />
+</p>
+
+### Flow Diagram
+<p align="center">
+  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/diagrams/flow_diagram.png" alt="Flow Diagram" />
+</p>
+
+### HL Diagram
+<p align="center">
+  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/diagrams/hl_diagram.png" alt="HL Diagram" />
+</p>
+
 
 ---
