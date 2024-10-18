@@ -74,6 +74,9 @@ The backend needed to handle **real-time updates** for both driver and booking m
 
 ---
 
+## Documentation
+[Please find documentation about the project here](https://drive.google.com/file/d/1g1hRTB8srE38dhVV7SR0mOsBzyyiw6LT/view?usp=sharing)
+
 ## Diagrams
 
 ### ER Diagram
