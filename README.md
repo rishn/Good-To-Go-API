@@ -11,9 +11,6 @@ Atlan Goods Application backend is built to handle complex logistics operations 
 ### Deployed Link
 [View the live site here](https://atlangoodsapplication.onrender.com) 
 
-### Video Explanation
-[View the explanation video here](https://drive.google.com/file/d/1jl3SyXi_6MKU0wrjauBNj-_ufbozkWxM/view?usp=sharing)
-
 ### Demo Videos
 
 [Customer Demo Large](https://drive.google.com/file/d/11eqpj6rgl38MQGEf4spjDuZQw_aRzokh/view?usp=sharing)
