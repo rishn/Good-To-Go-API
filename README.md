@@ -5,11 +5,11 @@
 Good to Go! backend is built to handle complex logistics operations like booking management, driver assignments, and real-time tracking. It is designed for scalability and handling several requests. The backend includes role-based access for customers, drivers, and admins.
 
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/public/background.png" alt="Image" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/public/background.png" alt="Image" />
 </p>
 
 ### Deployed Link
-[View the live site here](https://atlangoodsapplication.onrender.com) 
+[View the live site here](https://goodtogoapp.onrender.com)
 
 ### Demo Videos
 
@@ -64,12 +64,12 @@ The backend needed to handle **real-time updates** for both driver and booking m
 
 ### Finding Driver
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/outputs/finding_driver.png" alt="Finding Driver" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/outputs/finding_driver.png" alt="Finding Driver" />
 </p>
 
 ### Analytics Dashboard
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/outputs/analytics.png" alt="Analytics" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/outputs/analytics.png" alt="Analytics" />
 </p>
 
 ---
@@ -81,17 +81,17 @@ The backend needed to handle **real-time updates** for both driver and booking m
 
 ### ER Diagram
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/diagrams/er_diagram.png" alt="ER Diagram" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/er_diagram.png" alt="ER Diagram" />
 </p>
 
 ### Flow Diagram
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/diagrams/flow_diagram.png" alt="Flow Diagram" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/flow_diagram.png" alt="Flow Diagram" />
 </p>
 
 ### HL Diagram
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/diagrams/hl_diagram.png" alt="HL Diagram" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/hl_diagram.png" alt="HL Diagram" />
 </p>
 
 
