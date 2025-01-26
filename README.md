@@ -1,11 +1,11 @@
-# Atlan Goods Application - Backend
+# Good to Go! - Backend
 
 ## Overview
 
-Atlan Goods Application backend is built to handle complex logistics operations like booking management, driver assignments, and real-time tracking. It is designed for scalability and handling several requests. The backend includes role-based access for customers, drivers, and admins.
+Good to Go! backend is built to handle complex logistics operations like booking management, driver assignments, and real-time tracking. It is designed for scalability and handling several requests. The backend includes role-based access for customers, drivers, and admins.
 
 <p align="center">
-  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/public/background2.png" alt="Image" />
+  <img src="https://github.com/rishn/Atlan-Engineering-Internship-Task/blob/main/public/background.png" alt="Image" />
 </p>
 
 ### Deployed Link
