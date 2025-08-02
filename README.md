@@ -5,7 +5,7 @@
 Good to Go! backend is built to handle complex logistics operations like booking management, driver assignments, and real-time tracking. It is designed for scalability and handling several requests. The backend includes role-based access for customers, drivers, and admins.
 
 <p align="center">
-  <img src="https://github.com/rishn/Good-To-Go/blob/main/public/background.png" alt="Image" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/public/background.png" alt="Image" width="700" />
 </p>
 
 ### Deployed Link
@@ -64,12 +64,12 @@ The backend needed to handle **real-time updates** for both driver and booking m
 
 ### Finding Driver
 <p align="center">
-  <img src="https://github.com/rishn/Good-To-Go/blob/main/outputs/finding_driver.png" alt="Finding Driver" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/outputs/finding_driver.png" alt="Finding Driver" width="780" />
 </p>
 
 ### Analytics Dashboard
 <p align="center">
-  <img src="https://github.com/rishn/Good-To-Go/blob/main/outputs/analytics.png" alt="Analytics" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/outputs/analytics.png" alt="Analytics" width="700" />
 </p>
 
 ---
@@ -81,17 +81,17 @@ The backend needed to handle **real-time updates** for both driver and booking m
 
 ### ER Diagram
 <p align="center">
-  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/er_diagram.png" alt="ER Diagram" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/er_diagram.png" alt="ER Diagram" width="400" />
 </p>
 
 ### Flow Diagram
 <p align="center">
-  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/flow_diagram.png" alt="Flow Diagram" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/flow_diagram.png" alt="Flow Diagram" width="400" />
 </p>
 
 ### HL Diagram
 <p align="center">
-  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/hl_diagram.png" alt="HL Diagram" />
+  <img src="https://github.com/rishn/Good-To-Go/blob/main/diagrams/hl_diagram.png" alt="HL Diagram" width="400" />
 </p>
 
 
